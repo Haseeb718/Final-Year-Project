@@ -1,4 +1,6 @@
-# Final-Year-ProjectThis project is a Solar Panel and Inverter Monitoring System alongside a mobile appli-
+# Final-Year-Project
+
+This project is a Solar Panel and Inverter Monitoring System alongside a mobile appli-
 cation, this also includes is a designed inverter. The collected data undergoes processing
 and is displayed on a mobile app, allowing users to engage in real-time monitoring and
 remote-control functions. The monitoring system effortlessly incorporates hardware
